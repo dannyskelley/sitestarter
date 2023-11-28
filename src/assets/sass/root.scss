@@ -16,6 +16,8 @@
         --bodyTextColor: #4e4b66;
         --bodyTextColorWhite: #fafbfc;
 
+        --primaryRadius: 999px;
+
         /* 13px - 16px */
         --topperFontSize: clamp(0.8125rem, 1.6vw, 1rem);
         /* 31px - 49px */
@@ -60,11 +62,11 @@
         font-weight: bold;
         line-height: calc(50 / 16 * 1em);
         text-align: center;
-        text-transform: uppercase;
         text-decoration: none;
         width: auto;
         height: calc(50 / 16 * 1rem);
         padding: 0 calc(30 / 16 * 1rem);
+        border-radius:var(--primaryRadius);
 
         // Transition Properties
         color: #000;
@@ -76,6 +78,7 @@
         transition-delay: 0.1s;
 
         &:hover {
+            border-radius: var(--primaryRadius);
             color: #fff;
             &:before {
                 width: 100%;
@@ -96,6 +99,7 @@
             left: 0;
             z-index: -1;
             transition: width 0.3s;
+            border-radius: var(--primaryRadius);
         }
     }
 }
@@ -104,6 +108,17 @@
 @media only screen and (min-width: 0em) {
     // Grab your fonts to locally host from https://google-webfonts-helper.herokuapp.com/fonts
 
+/* poppins-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  
+
+
     /* roboto-regular - latin */
     @font-face {
         font-style: normal;
@@ -111,37 +126,27 @@
         font-weight: 400;
         font-display: swap;
         src: local(""),
-            url("/assets/fonts/roboto-v29-latin-regular.woff2") format("woff2"),
+            url("/assets/fonts/poppins-v20-latin-regular.woff2") format("woff2"),
             /* Chrome 26+, Opera 23+, Firefox 39+ */
-                url("/assets/fonts/roboto-v29-latin-regular.woff")
+                url("/assets/fonts/.woff")
                 format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
-    /* roboto-700 - latin */
-    @font-face {
-        font-style: normal;
-        font-family: "Roboto";
-        font-weight: 700;
-        font-display: swap;
-        src: local(""),
-            url("/assets/fonts/roboto-v29-latin-700.woff2") format("woff2"),
-            /* Chrome 26+, Opera 23+, Firefox 39+ */
-                url("/assets/fonts/roboto-v29-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-    }
+ 
     /* roboto-900 - latin */
     @font-face {
         font-style: normal;
-        font-family: "Roboto";
+        font-family: "Poppins";
         font-weight: 900;
         font-display: swap;
         src: local(""),
-            url("/assets/fonts/roboto-v29-latin-900.woff2") format("woff2"),
+            url("/assets/fonts/poppins-v20-latin-regular.woff2") format("woff2"),
             /* Chrome 26+, Opera 23+, Firefox 39+ */
-                url("/assets/fonts/roboto-v29-latin-900.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+                url("/assets/fonts/roboto-v29-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     }
 
     body,
     html {
-        font-family: "Roboto", Arial, sans-serif;
+        font-family: "Poppins", Arial, sans-serif;
         font-size: 100%;
         margin: 0;
         padding: 0;
@@ -573,31 +578,7 @@
     }
 }
 
-/* Dark Mode */
-@media only screen and (max-width: 63.9375rem) {
-    body.dark-mode {
-        #cs-navigation {
-            background-color: var(--dark);
 
-            .cs-logo {
-                /* makes it white */
-                filter: grayscale(1) brightness(1000%);
-            }
-
-            .cs-line {
-                background-color: #fff;
-            }
-
-            .cs-ul-wrapper {
-                background-color: var(--medium);
-            }
-
-            .cs-li-link {
-                color: var(--bodyTextColorWhite);
-            }
-        }
-    }
-}
 
 /*-- -------------------------- -->
 <---     Navigation Dropdown    -->
@@ -1098,7 +1079,7 @@
         .title {
             font-size: min(9vw, 3rem);
             font-weight: 900;
-            line-height: calc(58 / 48 * 1rem);
+         
             text-align: center;
             margin-bottom: calc(36 / 16 * 1rem);
             color: #fff;
