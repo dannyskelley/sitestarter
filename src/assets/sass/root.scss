@@ -8,13 +8,14 @@
 @media only screen and (min-width: 0em) {
     // Website colors
     :root {
-        --primary: #ffba19;
+        --primary: lime;
         --primaryLight: #ffd675;
         --secondary: #001f3f;
         --secondaryLight: #001f3f;
         --headerColor: #1a1a1a;
         --bodyTextColor: #4e4b66;
         --bodyTextColorWhite: #fafbfc;
+        --bbackground: white;
 
         --primaryRadius: 999px;
 
@@ -328,7 +329,7 @@
         box-sizing: border-box;
         padding: calc(12 / 16 * 1rem) calc(16 / 16 * 1rem);
         background-color: #fff;
-        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        
         position: fixed;
         z-index: 10000;
 
@@ -818,9 +819,9 @@
         /* prevents padding from affecting height and width */
         box-sizing: border-box;
         padding: 0 calc(16 / 16 * 1rem);
-        background-color: #fff;
-        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-        position: fixed;
+        
+       
+       
         z-index: 10000;
 
         .cs-container {
@@ -917,7 +918,7 @@
 @media only screen and (min-width: 64rem) {
     body.dark-mode {
         #cs-navigation {
-            background-color: var(--dark);
+            
 
             .cs-logo {
                 /* makes it turn white */
