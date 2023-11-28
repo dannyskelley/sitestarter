@@ -4,6 +4,9 @@
 <---      Core Dark Styles      -->
 <--- -------------------------- -*/
 
+
+
+
 /* Mobile */
 @media only screen and (min-width: 0em) {
     // Dark Mode Color Scheme
@@ -11,6 +14,25 @@
         --dark: #082032;
         --medium: #2c394b;
         --accent: #334756;
+    }
+
+    body.dark-mode {
+        #cs-navigation {
+            
+
+            .cs-logo, .cs-line {
+                /* makes it turn white */
+                filter: grayscale(1) brightness(1000%);
+            }
+
+        
+
+            .cs-li-link {
+                &:before {
+                    background-color: var(--primaryLight);
+                }
+            }
+        }
     }
 
     body.dark-mode {
@@ -42,3 +64,7 @@
         display: none;
     }
 }
+
+
+   
+

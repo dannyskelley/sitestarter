@@ -7,8 +7,7 @@
 /* Mobile - 360px */
 @media only screen and (min-width: 0em) {
     #hero {
-        /* Centers button */
-        text-align: center;
+   
         /* changes on tablet */
         padding: 0 calc(16 / 16 * 1rem);
         padding-bottom: calc(100 / 16 * 1rem);
@@ -69,15 +68,13 @@
         .cs-flex-group {
             width: 80vw;
             /* 464px - 562px */
-            max-width: clamp(29em, 60vw, 35.125em);
+            max-width: 1000px;
             margin: auto;
             /* 60px - 220px */
             margin-bottom: clamp(3.75em, 15.5vw, 13.75em);
             box-sizing: border-box;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            flex-wrap: wrap;
+          
+        
         }
 
         .cs-topper {
@@ -87,17 +84,18 @@
         }
 
         .cs-title {
-            text-align: center;
+            text-align: left;
             width: 100%;
            
         }
 
         .cs-text {
-            text-align: center;
+            text-align: left;
             /* 32px - 40px */
             margin: 0 auto clamp(2rem, 4vw, 2.5rem) 0;
             /* 40px - 48px */
             margin-bottom: clamp(2.5rem, 4vw, 3rem);
+            max-width: 600px;;
             
         }
 
@@ -171,7 +169,7 @@
         padding: 0 clamp(2em, 5vw, 2.5em);
 
         .cs-container {
-            padding: clamp(7em, 27.95vw, 17.5em) 0 clamp(9em, 30.95vw, 23.5em) 0;
+            padding:100px 50px;
            
         }
 
