@@ -12,8 +12,8 @@
     // Dark Mode Color Scheme
     :root {
         --dark: #082032;
-        --medium: #2c394b;
-        --accent: #334756;
+        --medium: rgba(255,255,255 , .05);
+        --accent: rgba(255,255,255 , .05);
     }
 
     body.dark-mode {

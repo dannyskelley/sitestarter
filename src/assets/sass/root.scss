@@ -4,6 +4,8 @@
 <---        Core Styles         -->
 <--- -------------------------- -*/
 
+* {transition: all ease .2s;}
+
 /* CodeStitch Root and Helpers */
 @media only screen and (min-width: 0em) {
     // Website colors
@@ -23,7 +25,7 @@
         --topperFontSize: clamp(0.8125rem, 1.6vw, 1rem);
         /* 31px - 49px */
         --headerFontSize: clamp(1.9375rem, 6.9vw, 6.0625rem);
-        --bodyFontSize: 1rem;
+        --bodyFontSize: 1.2rem;
 
         /* 60px - 100px top and bottom */
         --sectionPadding: clamp(3.75rem, 7.82vw, 6.25rem) 1rem;
@@ -43,10 +45,16 @@
     .cs-title {
         font-size: var(--headerFontSize);
         font-weight: 900;
-        line-height: 1.2em;
+        line-height: 1em;
         margin: 0 auto calc(16 / 16 * 1rem);
         color: var(--headerColor);
         position: relative;
+    }
+
+    #hero .cs-title {
+            font-size: var(--headerFontSize);
+            font-weight: 900;
+            line-height: 1.2em;
     }
 
     .cs-text {
@@ -330,7 +338,7 @@
         padding: calc(12 / 16 * 1rem) calc(16 / 16 * 1rem);
         
         
-        position: fixed;
+       
         z-index: 10000;
 
         &:before {
@@ -389,8 +397,8 @@
             z-index: 10;
 
             img {
-                width: 100%;
-                height: 100%;
+                
+               
                 /* ensures the image never overflows the container. It stays contained within it's width and height and expands to fill it then stops once it reaches an edge */
                 object-fit: contain;
                 /* places the image to the left edge of the parent */
@@ -976,9 +984,9 @@
             z-index: -2;
 
             img {
-                width: 100%;
+                
                 height: 100%;
-                object-fit: cover;
+                
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -1068,9 +1076,9 @@
             z-index: -2;
 
             img {
-                width: 100%;
+                
                 height: 100%;
-                object-fit: cover;
+                
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -1111,9 +1119,7 @@
     #cta {
         margin-top: calc(100 / 16 * 1rem);
         position: relative;
-        &:before {
-            display: none;
-        }
+        
         &:after {
             content: "";
             width: calc(2000 / 16 * 1rem);
