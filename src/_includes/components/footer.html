@@ -5,32 +5,44 @@
 <footer id="footer">
     <div class="container">
         <div class="left-section">
-            <a class="logo" href="/"><img loading="lazy" decoding="async" src="/assets/svgs/logo-white.svg" alt="logo" width="264" height="78"></a>
+            <a class="logo" href="/"><img style="filter: grayscale(1) brightness(1000%);" loading="lazy" decoding="async" src="/assets/svgs/logo-black.svg" alt="logo" width="264" height="78"></a>
             <p>
-                Extra content if you need it, if not you can delete this whole p tag. I usually do.
+                Detroit Web Design Agency
             </p>
         </div>
         <div class="right-section">
             <div class="lists">
                 <ul>
-                    <li>
-                        <h2>Information</h2>
-                    </li>
-                    <li>
-                        <a href="/">Home</a>
-                    </li>
-                    <li>
-                        <a href="/about">About Us</a>
-                    </li>
-                    <li>
-                        <a href="/projects">Projects</a>
-                    </li>
-                    <li>
-                        <a href="/testimonials">Reviews</a>
-                    </li>
-                    <li>
-                        <a href="/contact">Contact</a>
-                    </li>
+                      {% set navPages = collections.all | eleventyNavigation %}
+                      {# Loop through all pages with a eleventyNavigation in the frontmatter #}
+                      {% for entry in navPages %}
+                        {# Define a hasChild variable to make it easier to test what links are dropdowns#}
+                        {% set hasChild = entry.children.length %}
+            
+                        {# If this page is a dropdown, give it the appropriate classes, icons and accessibility attributes#}
+                        <li class="cs-li {% if hasChild %} cs-dropdown {% endif %}" {% if hasChild %} tabindex="0"{% endif %}>
+            
+                          {# Similarly, if the link is active, apply the necessary classes #}
+                          <a href="{{ entry.url }}" class="cs-li-link {% if entry.url == page.url %} cs-active {% endif %}">
+                            {{ entry.key }}
+                            {% if hasChild %}
+                              <img class="cs-drop-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fdown.svg" alt="dropdown icon" width="15" height="15" decoding="async" aria-hidden="true">
+                            {% endif %}
+                          </a>
+            
+                          {# Dropdowns have another ul/li set up within the parent li. Render in the same way as a normal link #}
+                          {% if hasChild %}
+                            <ul class="cs-drop-ul">
+                              {% for child in entry.children %}
+                                <li class="cs-drop-li">
+                                  <a href="{{ child.url }}" class="cs-li-link cs-drop-link">{{ child.key }}</a>
+                                </li>
+                              {% endfor %}
+                            </ul>
+                          {% endif %}
+                        </li>
+                      {% endfor %}
+                    
                 </ul>
                 <ul>
                     <li>
