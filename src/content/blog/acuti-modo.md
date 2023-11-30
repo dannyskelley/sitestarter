@@ -10,11 +10,9 @@ tags:
 image: /assets/images/blog/frame-3-3.png
 imageAlt: Kitchen
 ---
-The top 5 things every new company must have
-
 1. A .com address for your company such as “mycompany.com”
-2. A name and logo
-3. A business email address such as sales@ or dave@ “mycompany.com”
+2. A business name and logo
+3. A business email address
 4. Social media such as facebook and instagram
 5. A mobile friendly website the incorporates all of the above
 
