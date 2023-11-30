@@ -37,17 +37,21 @@ eleventyComputed:
             <!--                  Blog Article                -->
             <!-- ============================================ -->
 
+     <!--Main Article Image-->
+     <picture class="blog-mainImage">
+        <img src="{{ image }}" alt="{{ imageAlt }}" decoding="async" />
+    </picture>
+
             <article class="blog-article">
-                <!--Main Article Image-->
-                <picture class="blog-mainImage">
-                    <img src="{{ image }}" alt="{{ imageAlt }}" width="795" height="400" decoding="async" />
-                </picture>
+                <h1 class="blog-h1">{{ title }}</h1>
+
+           
 
                 <!--Article Info-->
                 <div class="article-group">
-                    <h1 class="blog-h1">{{ title }}</h1>
+                    
                     <div class="blog-authorGroup">
-                        <!--Author Image-->
+                        <!--Author Image
                         <picture class="blog-author-img">
                             <img
                             src="/assets/svgs/profile.svg"
@@ -57,7 +61,7 @@ eleventyComputed:
                             decoding="async">
                         </picture>
                         <span class="blog-author">{{ author }}</span>
-                        <span aria-hidden="true" class="blog-dot"></span>
+                        <span aria-hidden="true" class="blog-dot"></span>-->
                         <!--Blog Date-->
                         <span class="blog-date">{{ date | postDate }}</span>
                     </div>

@@ -333,9 +333,10 @@
         }
 
         .blog-h1 {
-            font-size: clamp(20px, 5vw, 32px);
-            font-weight: 700;
+            font-size: clamp(20px, 5vw, 42px);
+            font-weight: 900;
             line-height: 1.4em;
+            text-decoration: none;;
             margin: calc(16 / 16 * 1rem) 0;
             color: var(--headerColor);
         }
@@ -642,10 +643,10 @@
         }
 
         .blog-h1 {
-            font-size: clamp(20px, 5vw, 39px);
-            font-weight: 700;
+            font-size: clamp(20px, 5vw, 42px);
+            font-weight: 900;
             line-height: 1.4em;
-            max-width: calc(550 / 16 * 1rem);
+            
             margin: calc(16 / 16 * 1rem) 0;
             color: var(--headerColor);
         }
@@ -653,7 +654,7 @@
         #blog-content {
             margin-top: calc(16 / 16 * 1em);
             padding-top: calc(25 / 16 * 1em);
-            border-top: 1px solid #ebebeb;
+           
 
             h1 {
                 font-size: 2.25rem;

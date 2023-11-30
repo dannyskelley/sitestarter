@@ -53,10 +53,10 @@ eleventyNavigation:
                            
                             decoding="async" />
                         </picture>
-                        <!--Article Info-->
+                        <!--Article Info
                        
                             <div class="blog-authorGroup">
-                                <!--Author Image-->
+                                uthor Image-
                                 <picture class="blog-author-img">
                                     <img
                                     src="/assets/svgs/profile.svg"
@@ -67,16 +67,19 @@ eleventyNavigation:
                                 </picture>
                                 <span class="blog-author">{{ post.data.author }}</span>
                                 <span aria-hidden="true" class="blog-dot"></span>
-                                <!--Blog Date-->
-                                <span class="blog-date">{{ post.date | postDate }}</span>
-                            </div>
-                            <h2 class="blog-h1">
-                                {{ post.data.title }}
+
+
+                                
+                                
+                            </div>-->
+                            <h2>
+                                <a class="blog-h1" href="{{ post.url }}"> {{ post.data.title }}</a>
                             </h2>
-                            <p class="blog-desc">
+                            <span class="blog-date">{{ post.date | postDate }}</span>
+                            <!--<p class="blog-desc">
                                 {{ post.data.description }}
-                            </p>
-                            <a href="{{ post.url }}" class="blog-link">Continue Reading</a>
+                            </p>-->
+                            
                         </div>
                     </article>
                 {%- endfor -%}
