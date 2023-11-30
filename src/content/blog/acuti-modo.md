@@ -16,4 +16,8 @@ imageAlt: Kitchen
 4. Social media such as facebook and instagram
 5. A mobile friendly website the incorporates all of the above
 
-These are the bare minimum!
+These are the bare minimum.
+
+If you need any of these, do not hesitate to reach out for help.
+
+designgandalf@gmail.com
