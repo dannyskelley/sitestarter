@@ -1,8 +1,8 @@
 {
 	"name": "Design Gandalf",
-	"email": "dannyskelley@gmail.com",
+	"email": "designgandalf@gmail.com",
 	"phoneForTel": "313-801-47388",
-	"phoneFormatted": "(5313) 801-7388",
+	"phoneFormatted": "(313) 801-7388",
 	"address": {
 		"lineOne": "First Address Line",
 		"lineTwo": "Second Address Line",
@@ -11,5 +11,5 @@
 		"zip": "48220",
 		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
 	},
-	"domain": "www.dannyskelley.com"
+	"domain": "www.designgandalf.com"
 }

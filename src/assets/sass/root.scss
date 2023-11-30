@@ -1006,11 +1006,12 @@
             top: 0;
             left: 0;
             z-index: -2;
+            
 
             img {
                 
                 height: 100%;
-                
+                object-fit: cover; 
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -1061,6 +1062,7 @@
         padding-top: calc(180 / 16 * 1rem);
         background-attachment: fixed;
         padding-block-end: calc(100 / 16 * 1rem);
+       
     }
 }
 
