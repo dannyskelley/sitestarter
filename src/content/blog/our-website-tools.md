@@ -14,7 +14,9 @@ PageSpeed Insights (PSI) reports on the user experience of a page on both mobile
 
 [pagespeed.web.dev](https://pagespeed.web.dev/)
 
+[](https://pagespeed.web.dev/)
 
+[](https://pagespeed.web.dev/)
 
 **Am I Responsive?**
 
@@ -24,11 +26,15 @@ Check how your website looks across devices.
 
 [](https://pagespeed.web.dev/)
 
+[](https://pagespeed.web.dev/)
+
 **Google Search Console**[](https://search.google.com/search-console/about)
 
 Google Search Console is a web service by Google which allows webmasters to check indexing status, search queries, crawling errors and optimize visibility of their websites. 
 
 [search.google.com/search-console/](https://search.google.com/search-console/about)
+
+[](https://search.google.com/search-console/about)
 
 [](https://search.google.com/search-console/about)
 
