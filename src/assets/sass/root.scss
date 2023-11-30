@@ -1249,12 +1249,10 @@
                 width: 96%;
                 max-width: calc(307 / 16 * 1rem);
                 margin: auto;
-                display: flex;
-                justify-content: space-between;
-                flex-wrap: wrap;
+                
                 ul {
                     margin-top: 0;
-                    margin-bottom: 0;
+                    margin-bottom: 100px;
                     padding: 0;
 
                     &:nth-of-type(3) {
@@ -1366,6 +1364,17 @@
             justify-content: space-between;
             flex-wrap: nowrap;
         }
+
+     .lists {
+
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            
+        }
+        .lists ul {margin-bottom: 0px!important;;}
+
+       
 
         .left-section {
             text-align: left;
