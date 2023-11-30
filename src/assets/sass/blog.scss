@@ -273,23 +273,23 @@
         .blog-mainImage {
             width: 100%;
             
-            
+            margin: 0px;
             display: block;
             position: relative;
-            overflow: hidden;
+          
 
             img {
                 width: 100%;
-                margin-bottom: 30px;;
+                
               
                 
             }
         }
 
         .article-group {
-            padding: clamp(30px, 5vw, 50px);
-            border: 1px solid #ebebeb;
-            border-radius: 0 0 calc(8 / 16 * 1em) calc(8 / 16 * 1em);
+            padding: 0px;
+            
+            
         }
 
         .blog-author-img {
@@ -585,7 +585,7 @@
         .blog-mainImage {
             width: 100%;
             height: clamp(200px, 30vw, 400px);
-            margin-bottom: calc(50 / 16 * 1em);
+            margin:0px;
             border-radius: calc(8 / 16 * 1em);
             display: block;
             position: relative;
