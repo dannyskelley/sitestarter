@@ -8,8 +8,6 @@ tags:
 image: /assets/images/blog/man-coffee-cup-pen.webp
 imageAlt: a
 ---
-
-
 **PageSpeed Insights**
 
 PageSpeed Insights (PSI) reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved. PSI provides both lab and field data about a page.
@@ -17,6 +15,14 @@ PageSpeed Insights (PSI) reports on the user experience of a page on both mobile
 [pagespeed.web.dev](https://pagespeed.web.dev/)
 
 
+
+**Am I Responsive?**
+
+Check how your website looks across devices.
+
+[https://ui.dev/amiresponsive](https://pagespeed.web.dev/)[](https://pagespeed.web.dev/)
+
+[](https://pagespeed.web.dev/)
 
 **Google Search Console**[](https://search.google.com/search-console/about)
 
