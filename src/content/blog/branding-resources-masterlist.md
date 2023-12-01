@@ -20,20 +20,20 @@ What is brand identity? And how to develop a great one.
 
 [99designs.com/blog/tips/brand-identity/](https://99designs.com/blog/tips/brand-identity/)
 
-<https://www.pentagram.com/work>
+[pentagram.com/work](https://www.pentagram.com/work)
 
-<https://www.redantler.com/work>
+[redantler.com/work](https://www.redantler.com/work)
 
-<https://wolffolins.com/work>
+[wolffolins.com/work](https://wolffolins.com/work)
 
-<https://lippincott.com/work/>
+[lippincott.com/work/](https://lippincott.com/work/)
 
-<https://jkrglobal.com/work>
+[krglobal.com/work](https://jkrglobal.com/work)
 
-<https://www.paulrand.design/work/Logos.html>
+[paulrand.design/work/Logos.html](https://www.paulrand.design/work/Logos.html)
 
-[http://www.draplin.com/work/](https://www.paulrand.design/work/Logos.html)
+[draplin.com/work/](https://www.paulrand.design/work/Logos.html)
 
-<https://www.logodesignlove.com/>
+[logodesignlove.com/](https://www.logodesignlove.com/)
 
-[http://www.logoed.co.uk/](https://www.paulrand.design/work/Logos.html)
+[logoed.co.uk/](https://www.paulrand.design/work/Logos.html)
