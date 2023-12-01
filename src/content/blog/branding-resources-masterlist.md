@@ -34,4 +34,6 @@ What is brand identity? And how to develop a great one.
 
 [http://www.draplin.com/work/](https://www.paulrand.design/work/Logos.html)
 
+<https://www.logodesignlove.com/>
+
 [http://www.logoed.co.uk/](https://www.paulrand.design/work/Logos.html)
