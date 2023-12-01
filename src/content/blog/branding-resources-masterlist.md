@@ -20,17 +20,15 @@ imageAlt: Branding
 
 [](https://www.oberlo.com/blog/how-to-build-a-brand)
 
-### What is brand identity? And how to develop a great one. 
+### What is brand identity? And how to develop a great one.
 
 [99designs.com/blog/tips/brand-identity/](https://99designs.com/blog/tips/brand-identity/)
-
-
 
 ### [](https://99designs.com/blog/tips/brand-identity/)Top Branding Agencies & Logo Designers
 
 [pentagram.com/work](https://www.pentagram.com/work)
 
-[www.cghnyc.com](https://www.pentagram.com/work)
+[cghnyc.com](https://www.pentagram.com/work)
 
 [redantler.com/work](https://www.redantler.com/work)
 
