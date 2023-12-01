@@ -11,3 +11,7 @@ imageAlt: art
 [](https://www.metalab.com/)
 
 [metalab.com](https://www.metalab.com/)
+
+[8020.inc](https://www.metalab.com/)
+
+[z1.digital](https://z1.digital/)
