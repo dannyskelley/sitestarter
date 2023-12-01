@@ -30,6 +30,8 @@ imageAlt: Branding
 
 [pentagram.com/work](https://www.pentagram.com/work)
 
+[www.cghnyc.com](https://www.pentagram.com/work)
+
 [redantler.com/work](https://www.redantler.com/work)
 
 [wolffolins.com/work](https://wolffolins.com/work)
