@@ -14,21 +14,13 @@ imageAlt: Branding
 
 [](https://blog.hubspot.com/agency/develop-brand-identity)
 
-
-
 #### How to Build a Brand: An 8-Step Guide For 2023
 
 #### [oberlo.com/blog/how-to-build-a-brand](https://www.oberlo.com/blog/how-to-build-a-brand)
 
-
-
 #### What is brand identity? And how to develop a great one.
 
 #### [99designs.com/blog/tips/brand-identity/](https://99designs.com/blog/tips/brand-identity/)
-
-
-
-
 
 #### [](https://99designs.com/blog/tips/brand-identity/)Top Branding Agencies & Logo Designers
 
@@ -37,6 +29,8 @@ imageAlt: Branding
 [cghnyc.com](https://www.pentagram.com/work)
 
 [redantler.com/work](https://www.redantler.com/work)
+
+[turnerduckworth.com](https://www.redantler.com/work)
 
 [wolffolins.com/work](https://wolffolins.com/work)
 
