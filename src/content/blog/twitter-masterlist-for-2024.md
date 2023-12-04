@@ -20,17 +20,12 @@ You can find these in a living google doc here -
 
 Statement two
 
-1) 
-
-2) 
-
-3) 
-
-4) 
+1.
+2.
+3.
+4.
 
 Conclusion
-
-
 
 Ideas: tools, people, step by step - Explain how you do something or Explain how someone else is doing something
 
@@ -52,12 +47,8 @@ Conclusion here
 
 PS:
 
-
-
 8 point bulleted list 
 
-
-
 •
 
 •
@@ -76,7 +67,7 @@ PS:
 
 
 
-Unpopular Opinion
+### Unpopular Opinion
 
 I know this might be an unpopular opinion, but
 
@@ -84,9 +75,7 @@ I know this might be an unpopular opinion, but
 
 
 
-
-
-Before and after
+### Before and after
 
 Before:
 
@@ -110,55 +99,33 @@ One line takeaway
 
 
 
-Don’t Do This Do that
+### Don’t Do This Do that
 
 Think of a pain point your target audience has. the more common it is, the better. for example, “stop getting distracted by your phone”
 
 Then give a piece of advice or lesson that solves the pain you stated above
 
-
-
 Dont
 
 Do
 
-
-
-
-
 It’s not this its that
-
-
 
 The first line addresses this misconception.
 
 In the second line, the "truth" is revealed.
 
+### You don’t need  you need
 
-
-You don’t need  you need
-
-
-
-Life hack: \[insert tip or trick here]. \[insert brief explanation or benefit]. #lifehack
-
-
-
-
+### Life hack: \[insert tip or trick here]. \[insert brief explanation or benefit]. #lifehack
 
 What’s that one thing that everyone tells you “Wow, I didn’t know you could do that”? Or what's that one thing you learned that literally changed your perspective?
 
-
-
-Unspoken Truth
+### Unspoken Truth
 
 \#unspokentruth
 
-
-
-
-
-Question your audience
+### Question your audience
 
 What’s your favorite book/movie/TV show at the moment?
 
@@ -168,21 +135,13 @@ What’s the most important lesson you’ve learned in the last year?
 
 What’s something you’ve always wanted to learn but haven’t had the chance to do yet?
 
-
-
-Curate content
-
-
+### Curate content
 
 curators sift through mountains and mountains of content, pick out the best bits, and share them with the world.
 
 They save people time, effort, and money
 
-
-
-
-
-Freebie giveaway
+### Freebie giveaway
 
 1st line: Make your pitch. Attack the audience’s pain and offer something that solves it (get better at X, get more Y…)
 
