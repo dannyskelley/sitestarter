@@ -150,3 +150,17 @@ They save people time, effort, and money
 3rd line: Tell people it’s for Free
 
 4th line: Make the rule. Ask them to reply with a certain word or emoji
+
+
+
+
+
+### Cheat codes for searching 
+
+
+
+Min_faves:800
+
+
+
+min_retweets:800
