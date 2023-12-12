@@ -5,7 +5,7 @@ author: Gandalf
 date: 2023-12-01T15:21:38.701Z
 tags:
   - post
-image: /assets/images/blog/pexels-photo-1435750.jpeg
+image: /assets/images/blog/pexels-photo-1437318.webp
 imageAlt: Branding
 ---
 #### Brand Identity: How to Develop a Unique & Memorable Brand in 2023
