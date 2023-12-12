@@ -5,7 +5,7 @@ author: gandalf
 date: 2023-12-04T11:51:41.395Z
 tags:
   - post
-image: /assets/images/blog/pexels-photo-3473411.jpeg
+image: /assets/images/blog/pexels-photo-2818118.webp
 imageAlt: Posting on twitter
 ---
 You can find these in a living google doc here - 
