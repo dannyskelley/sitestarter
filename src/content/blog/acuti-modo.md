@@ -7,7 +7,7 @@ author: Gandalf
 date: 2024-06-08T15:26:00.000Z
 tags:
   - post
-image: /assets/images/blog/pexels-photo-1779487.webp
+image: /assets/images/blog/landing.gif
 imageAlt: Kitchen
 ---
 1. A .com address for your company such as “mycompany.com”
