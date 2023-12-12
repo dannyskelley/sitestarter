@@ -5,7 +5,7 @@ author: Gandalf
 date: 2023-12-01T17:59:39.292Z
 tags:
   - post
-image: /assets/images/blog/pexels-photo-1109354.jpeg
+image: /assets/images/blog/pexels-photo-509922.webp
 imageAlt: art
 ---
 [](https://www.metalab.com/)
