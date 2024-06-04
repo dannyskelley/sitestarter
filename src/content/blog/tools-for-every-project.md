@@ -16,9 +16,9 @@ imageAlt: Tools for every project
 
 [](https://trello.com)[codestitch.app/complete-guide-to-freelancing](https://codestitch.app/complete-guide-to-freelancing)
 
-<https://www.reddit.com/r/codestitch/>
+[reddit.com/r/codestitch](https://www.reddit.com/r/codestitch/)
 
-<https://productizeyourself.circle.so/home>
+[productizeyourself.circle.so/home](https://productizeyourself.circle.so/home)
 
 ## Get Inspired
 
@@ -27,6 +27,8 @@ imageAlt: Tools for every project
 [pinterest.com](https://trello.com)
 
 [land-book.com](https://land-book.com/)
+
+[designcode.io/courses](https://designcode.io/courses/)
 
 ## Make the Product
 
@@ -44,11 +46,11 @@ imageAlt: Tools for every project
 
 [realfavicongenerator.net](https://realfavicongenerator.net/)
 
-<https://codestitch.app/font-pair-guide#why-google-fonts>
+[codestitch.app/font-pair-guide#why-google-fonts](https://codestitch.app/font-pair-guide#why-google-fonts)
 
-<https://gwfh.mranftl.com/fonts>
+[gwfh.mranftl.com/fonts](https://gwfh.mranftl.com/fonts)
 
-<https://www.shapedivider.app/>
+[www.shapedivider.app](https://www.shapedivider.app/)
 
 ### Icons
 
@@ -66,7 +68,7 @@ imageAlt: Tools for every project
 
 [](https://unsplash.com)[unsplash.com](https://unsplash.com)
 
-<https://www.pexels.com/>
+[pexels.com](https://www.pexels.com/)
 
 [mockupworld.co/all-mockups](https://www.mockupworld.co/all-mockups/)
 
