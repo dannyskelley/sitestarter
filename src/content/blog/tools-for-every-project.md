@@ -24,27 +24,51 @@ imageAlt: Tools for every project
 
 [land-book.com](https://land-book.com/)
 
-
-
 ## Make the Product
 
 [github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)
 
 [](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)[webflow.com](https://webflow.com/)
 
+[framer.com](https://www.framer.com/)
+
 [figma.com](https://www.figma.com/)
+
+[ui.dev/amiresponsive](https://ui.dev/amiresponsive)
+
+[pagespeed.web.dev](https://realfavicongenerator.net/)
+
+[realfavicongenerator.net](https://realfavicongenerator.net/)
+
+<https://codestitch.app/font-pair-guide#why-google-fonts>
+
+<https://gwfh.mranftl.com/fonts>
+
+<https://www.shapedivider.app/>
+
+### Icons
+
+[flaticon.com](https://www.flaticon.com)
+
+[svgrepo.com](https://www.svgrepo.com/)
+
+[thenounproject.com](thenounproject.com)
 
 [streamlinehq.com](https://www.streamlinehq.com/freebies)
 
+[fonts.google.com/icons](https://fonts.google.com/icons)
+
+### [](https://www.streamlinehq.com/freebies)Photos
+
 [](https://unsplash.com)[unsplash.com](https://unsplash.com)
+
+<https://www.pexels.com/>
 
 [mockupworld.co/all-mockups](https://www.mockupworld.co/all-mockups/)
 
 [mrmockup.com/free-mockups](https://mrmockup.com/free-mockups/)
 
 [unblast.com/mockups](https://unblast.com/mockups/)
-
-
 
 ## Accept Payment & Scheduling
 
@@ -53,8 +77,6 @@ imageAlt: Tools for every project
 [cal.com](https://cal.com/)
 
 [hubspot.com/products/crm/live-chat-lp](https://www.hubspot.com/products/crm/live-chat-lp)
-
-
 
 ## Get Domain Name
 
