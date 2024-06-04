@@ -10,6 +10,8 @@ imageAlt: Tools for every project
 ---
 ## Track progress[](https://trello.com)
 
+[twitter.com](https://twitter.com/home)
+
 [loom.com](https://www.loom.com/)
 
 [trello.com](https://trello.com)
@@ -89,10 +91,6 @@ imageAlt: Tools for every project
 [](https://trello.com)[namesilo.com](https://www.namesilo.com/)
 
 [porkbun.com](https://porkbun.com)
-
-
-
-
 
 [](https://trello.com)
 
