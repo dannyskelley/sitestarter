@@ -14,7 +14,11 @@ imageAlt: Tools for every project
 
 [trello.com](https://trello.com)
 
-[](https://trello.com)
+[](https://trello.com)[codestitch.app/complete-guide-to-freelancing](https://codestitch.app/complete-guide-to-freelancing)
+
+<https://www.reddit.com/r/codestitch/>
+
+<https://productizeyourself.circle.so/home>
 
 ## Get Inspired
 
@@ -83,6 +87,10 @@ imageAlt: Tools for every project
 [](https://trello.com)[namesilo.com](https://www.namesilo.com/)
 
 [porkbun.com](https://porkbun.com)
+
+
+
+
 
 [](https://trello.com)
 
