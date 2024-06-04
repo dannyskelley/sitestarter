@@ -8,11 +8,11 @@ tags:
 image: /assets/images/blog/ales-nesetril-im7lzjxelhg-unsplash.jpg
 imageAlt: Tools for every project
 ---
-
-
 ## Track progress[](https://trello.com)
 
-<https://trello.com>
+[loom.com](https://www.loom.com/)
+
+[trello.com](https://trello.com)
 
 [](https://trello.com)
 
@@ -26,7 +26,7 @@ imageAlt: Tools for every project
 
 
 
-## Make Brand & Website
+## Make the Product
 
 [github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)
 
@@ -34,7 +34,15 @@ imageAlt: Tools for every project
 
 [figma.com](https://www.figma.com/)
 
+[streamlinehq.com](https://www.streamlinehq.com/freebies)
+
 [](https://unsplash.com)[unsplash.com](https://unsplash.com)
+
+[mockupworld.co/all-mockups](https://www.mockupworld.co/all-mockups/)
+
+[mrmockup.com/free-mockups](https://mrmockup.com/free-mockups/)
+
+[unblast.com/mockups](https://unblast.com/mockups/)
 
 
 
@@ -44,13 +52,15 @@ imageAlt: Tools for every project
 
 [cal.com](https://cal.com/)
 
+[hubspot.com/products/crm/live-chat-lp](https://www.hubspot.com/products/crm/live-chat-lp)
+
 
 
 ## Get Domain Name
 
-[](https://trello.com)[https://www.namesilo.com](https://www.namesilo.com/)
+[](https://trello.com)[namesilo.com](https://www.namesilo.com/)
 
-<https://porkbun.com>
+[porkbun.com](https://porkbun.com)
 
 [](https://trello.com)
 
