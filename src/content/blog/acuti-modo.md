@@ -4,7 +4,7 @@ description: "When starting a new business for the first time the amount of
   steps involved can be daunting. It can be difficult to know where to begin.
   There are certain things that every new company will need. "
 author: Gandalf
-date: 2024-06-08T15:26:00.000Z
+date: 2022-06-08T11:26:00.000Z
 tags:
   - post
 image: /assets/images/blog/landing.gif
