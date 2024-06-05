@@ -36,6 +36,8 @@ imageAlt: Tools for every project
 
 [github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)
 
+[netlify.com](netlify.com)
+
 [](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)[webflow.com](https://webflow.com/)
 
 [framer.com](https://www.framer.com/)
@@ -52,7 +54,9 @@ imageAlt: Tools for every project
 
 [gwfh.mranftl.com/fonts](https://gwfh.mranftl.com/fonts)
 
-[www.shapedivider.app](https://www.shapedivider.app/)
+[shapedivider.app](https://www.shapedivider.app/)
+
+[coolors.co/palettes/trending](https://coolors.co/palettes/trending)
 
 ### Icons
 
