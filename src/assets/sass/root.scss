@@ -71,10 +71,10 @@
     }
 
     // Button - can be replaced using CodeStitch's "Button" Stitches
-   .cs-nav li:last-child, .cs-button-solid {
-        font-size: calc(16 / 16 * 2rem);
+   .cs-nav li:last-child a, .cs-button-solid {
+        font-size: calc(16 / 16 * 1.5rem);
         font-weight:700;
-        line-height: calc(50 / 16 * 2rem);
+        line-height: calc(50 / 16 * 1.5rem);
         text-align: center;
         text-decoration: none;
         width: auto;
@@ -83,7 +83,7 @@
         border-radius:var(--primaryRadius);
 
         // Transition Properties
-        color: #fff;
+        color: #ffffff!important;
         background-color: var(--primary);
         display: inline-block;
         position: relative;
@@ -561,7 +561,7 @@
         .cs-li-link {
             /* 16px - 24px */
             font-size: clamp(1rem, 2.5vw, 1.5rem);
-            line-height: 1.2em;
+           
             text-decoration: none;
             margin: 0;
             color: var(--headerColor);
@@ -932,7 +932,7 @@
         }
     }
  .cs-nav li:last-child {padding: 0px!important;}
-    .cs-nav li:last-child  a {color:white!important; padding: 0px 25px!important; line-height: 48px!important; }
+    .cs-ul li:last-child .cs-li-link{color:white!important; padding: 0px 25px!important; line-height: 48px!important; }
 .cs-nav li:last-child a:hover {color: white !important;
     
     &:before {

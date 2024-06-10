@@ -242,12 +242,13 @@ body {background: url();
                 height: calc(88 / 16 * 1em);
                 margin: auto;
                 margin-bottom: calc(23 / 16 * 1em);
-                background: var(--primary);
+              
                 border-radius: 50%;
                 display: flex;
                 justify-content: center;
                 align-items: center;
-color:white;
+                border:5px solid var(--bodyTextColor);
+
 font-size:3rem;
                 img {
                     width: calc(48 / 16 * 1em);
