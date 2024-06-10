@@ -11,7 +11,7 @@
 @media only screen and (min-width: 0em) {
     // Website colors
     :root {
-        --primary: lime;
+        --primary: red;
         --primaryLight: rgba(255,255,255, 0.5);
         --secondary: rgba(0,0,0,.5);
         --secondaryLight: #001f3f;
@@ -72,18 +72,18 @@
 
     // Button - can be replaced using CodeStitch's "Button" Stitches
    .cs-nav li:last-child, .cs-button-solid {
-        font-size: calc(16 / 16 * 1rem);
-        font-weight: bold;
-        line-height: calc(50 / 16 * 1em);
+        font-size: calc(16 / 16 * 2rem);
+        font-weight:700;
+        line-height: calc(50 / 16 * 2rem);
         text-align: center;
         text-decoration: none;
         width: auto;
-        height: calc(50 / 16 * 1rem);
-        padding: 0 calc(30 / 16 * 1rem);
+       
+        padding: 0 calc(30 / 16 * 2rem);
         border-radius:var(--primaryRadius);
 
         // Transition Properties
-        color: #000;
+        color: #fff;
         background-color: var(--primary);
         display: inline-block;
         position: relative;
@@ -932,7 +932,7 @@
         }
     }
  .cs-nav li:last-child {padding: 0px!important;}
-    .cs-nav li:last-child  a {color:black!important; padding: 0px 25px!important; line-height: 48px!important;  color: black, impor !important;}
+    .cs-nav li:last-child  a {color:white!important; padding: 0px 25px!important; line-height: 48px!important; }
 .cs-nav li:last-child a:hover {color: white !important;
     
     &:before {
@@ -1316,10 +1316,10 @@
             }
 
             .cs-button-solid {
-                width: calc(250 / 16 * 1rem);
-                height: calc(53 / 16 * 1rem);
+                width: calc(250 / 16 * 2rem);
+                height: calc(53 / 16 * 2rem);
                 margin: 0;
-                padding-top: calc(3 / 16 * 1rem);
+                padding-top: calc(3 / 16 *2rem);
             }
         }
 
