@@ -14,6 +14,8 @@ eleventyNavigation:
     <link rel="stylesheet" href="/assets/css/local.css" />
     <link rel="stylesheet" href="/assets/css/critical.css" />
 
+    <link rel="stylesheet" href="/assets/aos/aos.css" />
+
     <!-- Script for Netlify Identity -->
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script defer>
@@ -31,6 +33,10 @@ eleventyNavigation:
                 });
         }
     </script>
+
+
+
+
 {% endblock %}
 
 {% block body %}
@@ -41,27 +47,27 @@ eleventyNavigation:
     <!--                  Services                    -->
     <!-- ============================================ -->
 
-    <section id="services" class="services">
+    <section id="services" class="services" data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">
         <!-- Get Icons From flaticon.com -->
         <div class="card">
             <picture>
                 1
             </picture>
-            <h2>We clarify your message</h2>
+            <h2 data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">We clarify your message</h2>
           
         </div>
         <div class="card">
             <picture>
             2
             </picture>
-            <h2>With a website you 100% love</h2>
+            <h2 data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">With a website you 100% love</h2>
            
         </div>
         <div class="card">
             <picture>
       3
             </picture>
-            <h2>You watch your business grow</h2>
+            <h2 data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">You watch your business grow</h2>
             
         </div>
     </section>
@@ -70,7 +76,7 @@ eleventyNavigation:
     <!--                 Side By Side                 -->
     <!-- ============================================ -->
 
-    <section id="sbs">
+    <section id="sbs" data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">
         <div class="cs-container">
             <!-- Left Image Section -->
             <div class="cs-left">
@@ -119,7 +125,7 @@ eleventyNavigation:
     <!--            Extra Content To Rank             -->
     <!-- ============================================ -->
 
-    <section id="sbs-r">
+    <section id="sbs-r" data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">
         <div class="cs-container">
             <!-- Left Image Section -->
             <div class="cs-left">
@@ -168,13 +174,13 @@ eleventyNavigation:
             <span class="cs-topper">Boost your revenue with a</span>
             <h2 class="cs-title">Mobile friendly website design</h2>
             <div class="newGrid">
-                <img src="/assets/images/portfolio/1.jpg">
+                <img data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true" src="/assets/images/portfolio/1.jpg">
 
                 <img src="/assets/images/portfolio/2.jpg">
 
-                <img src="/assets/images/portfolio/3.jpg">
+                <img  src="/assets/images/portfolio/3.jpg">
 
-                <img src="/assets/images/portfolio/4.jpg">
+                <img data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true" src="/assets/images/portfolio/4.jpg">
          </div>
                
             </div>
@@ -186,7 +192,7 @@ eleventyNavigation:
     <!--                   Reviews                    -->
     <!-- ============================================ -->
 
-    <section id="reviews">
+    <section id="reviews" data-aos="fade-up"  data-aos-easing="linear"  data-aos-once="false" data-aos-mirror="true">
         <div class="cs-container">
             <span class="cs-topper">Hear from our</span>
             <h2 class="cs-title">Satisified Customers</h2>
@@ -256,4 +262,11 @@ eleventyNavigation:
     </section>
 
     {% include 'components/cta.html' %}
+
+
+
+
+
 {% endblock %}
+
+
