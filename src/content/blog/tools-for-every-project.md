@@ -62,7 +62,7 @@ imageAlt: Tools for every project
 
 ### Icons
 
-[flaticon.com](https://www.flaticon.com)
+[flaticon.com](https://www.flaticon.com)[](https://www.flaticon.com)
 
 [svgrepo.com](https://www.svgrepo.com/)
 
@@ -71,6 +71,18 @@ imageAlt: Tools for every project
 [streamlinehq.com](https://www.streamlinehq.com/freebies)
 
 [fonts.google.com/icons](https://fonts.google.com/icons)
+
+[icons8.com/illustrations](< icons8.com/illustrations>)
+
+[iconscout.com](https://iconscout.com/)
+
+
+
+
+
+
+
+[](https://fonts.google.com/icons)
 
 ### [](https://www.streamlinehq.com/freebies)Photos
 
