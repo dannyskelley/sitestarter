@@ -8,6 +8,16 @@ tags:
 image: /assets/images/blog/ales-nesetril-im7lzjxelhg-unsplash.jpg
 imageAlt: Tools for every project
 ---
+## print[](https://trello.com)
+
+[qrcode-monkey.com](https://www.qrcode-monkey.com/)
+
+[4over.com/business-cards](https://4over.com/business-cards)
+
+
+
+[](https://www.loom.com/)
+
 ## Track progress[](https://trello.com)
 
 [twitter.com](https://twitter.com/home)
@@ -75,12 +85,6 @@ imageAlt: Tools for every project
 [icons8.com/illustrations](< icons8.com/illustrations>)
 
 [iconscout.com](https://iconscout.com/)
-
-
-
-
-
-
 
 [](https://fonts.google.com/icons)
 
